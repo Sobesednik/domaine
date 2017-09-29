@@ -1,3 +1,3 @@
-const myNewPackage = require('./')
+const domaine = require('./')
 
-myNewPackage()
+domaine()

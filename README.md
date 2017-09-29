@@ -1,17 +1,17 @@
-# my-new-package
+# domaine
 
-`my-new-package` is a new Node.js npm package.
+`domaine` is a new Node.js npm package.
 
-## `myNewPackage():void`
+## `domaine():void`
 
 Call this function to get a result you want.
 
 ```js
-const myNewPackage = require('my-new-package')
+const domaine = require('domaine')
 
-myNewPackage()
+domaine()
 ```
 
 ---
 
-(c) Sobesednik-Media 2017
+(c) [sobes.io](https://sobes.io) 2017

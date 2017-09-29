@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Sobesednik/domaine#readme",
   "devDependencies": {
-    "zoroaster": "0.4.4"
+    "zoroaster": "0.4.6"
   }
 }

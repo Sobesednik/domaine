@@ -1,15 +1,15 @@
 const assert = require('assert')
-const myNewPackage = require('../../src/')
+const domaine = require('../../src/')
 
-const myNewPackageTestSuite = {
+const domaineTestSuite = {
     'should be a function': () => {
-        assert.equal(typeof myNewPackage, 'function')
+        assert.equal(typeof domaine, 'function')
     },
     'should call package without error': () => {
         assert.doesNotThrow(() => {
-            myNewPackage()
+            domaine()
         })
     },
 }
 
-module.exports = myNewPackageTestSuite
+module.exports = domaineTestSuite

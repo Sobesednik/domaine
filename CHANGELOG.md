@@ -1,4 +1,4 @@
-## 0.1.0 (22 May)
+## 0.1.0 (29 Sep)
 
-- Create `my-new-package`: a package created with `mnp`
+- Create `domaine`: a package created with `mnp`
 - [repo]: `test`, `src`

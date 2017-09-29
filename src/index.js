@@ -1,8 +1,8 @@
 /**
  * Invoke package's main function
  */
-function myNewPackage() {
-    console.log('my-new-package called')
+function domaine() {
+    console.log('domaine called')
 }
 
-module.exports = myNewPackage
+module.exports = domaine
